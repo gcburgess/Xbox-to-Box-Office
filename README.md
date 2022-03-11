@@ -4,7 +4,10 @@
 ## Business Problem
 
 ## Data
-We used data from Box Office Mojo, The Numbers movie data base, and IMDB. The numbers provided us movie grossing figures and production budgets. Box Office Mojo provided us data on studios so we could whittle down the data to only studios we would be competing with. IMDB provided us with data on what genres, directors, and popularity of movies.
+We used data from *Box Office Mojo*, *The Numbers* movie data base, and *IMDb*.
+- *The Numbers* provided gross sales and production budgets for each movie. 
+- *Box Office Mojo* provided the name of the studio that produced each movie, so that we could select movies from the best performing studios.
+- *IMDb* provided us with data on what genres, directors, and popularity of movies.
 
 ## Methods
 We used descriptive analysis to determine what kinds of movies performed the best under different metrics. We looked at how production budget effected profits. We also categorized movies by genres, directors. Our metrics of success were profits, return on investment, and public interest.
