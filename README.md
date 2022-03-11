@@ -11,7 +11,17 @@ We used descriptive analysis to determine what kinds of movies performed the bes
 
 ## Results & Conclusions
 ### (I'm not sure how to break this up, the example had the graphs and brief explanations of them in the Results and then the specific explanations of conclusions from those graphs in the conclusions section)
-We found that high budget films led to higher profits and public interest. We found that the most profitable genres were Animation, Sci-Fi, Adventure, and Action. We found that Horror, Myster, Thriller, and Documentary films provided the highest return on investment. We found that Jennifer Lee, Chris Buck, Joss Whedon would be great choices for high profit movies. We found Travis Cluff, and Chris Lofing created one extremely successful horror movie and would be a good choice for a high ROI horror film. William Brent would also be good choice for a high ROI horror film. We found that Christopher Nolan or the Russo Brothers would be great choices for a movie that drives public interest in our studios films.
+[BudgetvProfit_scatterplot](./images/R1_Budget-Profit_scatter.png) [BudgetvVotes_scatterplot](./images/R1_Budget-Votes_scatter.png)
+We found that high budget films led to higher profits and public interest. 
+[ProfitbyGenre_barplot](./images/R2_Genre-Profit_barplot.png)
+[ROIbyGenre_barplot](./images/R2_Genre-ROI_barplot.png)
+We found that the most profitable genres were Animation, Sci-Fi, Adventure, and Action. We found that Horror, Myster, Thriller, and Documentary films provided the highest return on investment. 
+[ProfitbyDirector_barplot](./images/R3_Director-Profit_barplot.png)
+We found that Jennifer Lee, Chris Buck, Joss Whedon would be great choices for high profit movies. 
+[ROIbyDirector_barplot](./images/R3_Director-ROI_barplot.png)
+We found Travis Cluff, and Chris Lofing created one extremely successful horror movie and would be a good choice for a high ROI horror film. William Brent would also be good choice for a high ROI horror film. 
+[InterestbyDirector_barplot](./images/R3_Director-Votes_barplot.png)
+We found that Christopher Nolan or the Russo Brothers would be great choices for a movie that drives public interest in our studios films.
 
 ## Next Steps
 #### Marketing Budget
